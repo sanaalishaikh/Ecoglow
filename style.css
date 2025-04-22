@@ -1,0 +1,11 @@
+.bg-image{
+ background-image: url('hero.jpeg');
+ background-size: contain;
+ background-attachment: fixed;
+ background-position: center;
+}
+
+footer a:hover {
+ color: #dc3545 !important; /* Bootstrap danger color */
+ text-decoration: underline;
+}
